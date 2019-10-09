@@ -10,6 +10,7 @@ Classic machine learning algorithms implemented in plain Python / Numpy.
 
 # Contents
 
+### 0) (NEW!) [Neural Networks: Sequential.](bdrgnlearn/neural.py) 
 ### 1) [Tree ensembles: Gradient Boosting, Random Forest.](bdrgnlearn/ensemble.py) 
 ### 2) [Decision Trees.](bdrgnlearn/tree.py)
 ### 3) [Linear models: LinearRegression and LogisticRegression.](bdrgnlearn/linear_model.py)
