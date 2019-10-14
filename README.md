@@ -11,11 +11,6 @@ Classic machine learning algorithms implemented in plain Python / Numpy.
 # Contents
 
 ### 0) [Neural Networks: Sequential.](bdrgnlearn/neural.py) 
-
-Neural module API mimics Keras / Tensorflow.
-
-![](demo.gif)
-
 ### 1) [Tree ensembles: Gradient Boosting, Random Forest.](bdrgnlearn/ensemble.py) 
 ### 2) [Decision Trees.](bdrgnlearn/tree.py)
 ### 3) [Linear models: LinearRegression and LogisticRegression.](bdrgnlearn/linear_model.py)
