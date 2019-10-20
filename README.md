@@ -4,12 +4,6 @@ Classic machine learning algorithms implemented in plain Python / Numpy.
 
 ![alt text](lib_cover.png)
 
-* In this project I value readability over performance. 
-
-* Each algorithm implementation is an interactive lecture note. 
-
-* Here is a [demo](https://nbviewer.jupyter.org/github/bdrgn/bdrgnlearn/blob/master/DEMO.ipynb) showing algorithms at work. 
-
 # Contents
 
 ### 0) [Neural Networks: Sequential.](bdrgnlearn/neural.py) 
@@ -20,3 +14,12 @@ Classic machine learning algorithms implemented in plain Python / Numpy.
 ### 4) [KMeans clustering.](bdrgnlearn/cluster.py)
 ### 5) [KNN or K-nearest Neighbors.](bdrgnlearn/neighbors.py)
 ### 6) [Confusion Matrix, Precision, Recall.](bdrgnlearn/metrics.py)
+
+# Principles
+
+* In this project I value readability over performance. 
+
+* Each algorithm implementation is an interactive lecture note. 
+
+* Here is a [demo](https://nbviewer.jupyter.org/github/bdrgn/bdrgnlearn/blob/master/DEMO.ipynb) showing algorithms at work. 
+
