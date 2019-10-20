@@ -2,6 +2,8 @@
 
 Classic machine learning algorithms implemented in plain Python / Numpy. 
 
+![alt text](lib_cover.png)
+
 * In this project I value readability over performance. 
 
 * Each algorithm implementation is an interactive lecture note. 
