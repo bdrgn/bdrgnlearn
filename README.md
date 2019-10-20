@@ -1,6 +1,6 @@
 # bdrgnlearn
 
-Classic machine learning algorithms implemented in plain Python / Numpy. 
+### Classic machine learning algorithms implemented in plain Python / Numpy. 
 
 ![alt text](lib_cover.png)
 
