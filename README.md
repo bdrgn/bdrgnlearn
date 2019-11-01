@@ -7,7 +7,6 @@
 # Contents
 
 ### 0) [Neural Networks: Sequential.](bdrgnlearn/neural.py) 
-![](nn_demo_2.gif)
 ### 1) [Tree ensembles: Gradient Boosting, Random Forest.](bdrgnlearn/ensemble.py) 
 ### 2) [Decision Trees.](bdrgnlearn/tree.py)
 ### 3) [Linear models: LinearRegression and LogisticRegression.](bdrgnlearn/linear_model.py)
