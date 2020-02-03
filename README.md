@@ -6,8 +6,8 @@
 
 # Contents
 
-### 0) [Neural Networks: Sequential.](bdrgnlearn/neural.py) 
-### 1) [Tree ensembles: Gradient Boosting, Random Forest.](bdrgnlearn/ensemble.py) 
+### 0) [Sequential Neural Networks.](bdrgnlearn/neural.py) 
+### 1) [Random Forests.](bdrgnlearn/ensemble.py) 
 ### 2) [Decision Trees.](bdrgnlearn/tree.py)
 ### 3) [Linear models: LinearRegression and LogisticRegression.](bdrgnlearn/linear_model.py)
 ### 4) [KMeans clustering.](bdrgnlearn/cluster.py)
