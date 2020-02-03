@@ -2,7 +2,7 @@
 
 ### Classic machine learning algorithms implemented in plain Python / Numpy. 
 
-### It works like this:
+### My implementation of Random Forest gets 96% accuracy on breast cancer dataset:
 
 ![](demo.gif)
 
