@@ -13,8 +13,6 @@
 ### 3) [Linear models: LinearRegression and LogisticRegression.](bdrgnlearn/linear_model.py)
 ### 4) [Sequential Neural Networks.](bdrgnlearn/neural.py) 
 ### 5) [KMeans clustering.](bdrgnlearn/cluster.py)
-### 6) [KNN or K-nearest Neighbors.](bdrgnlearn/neighbors.py)
-### 7) [Confusion Matrix, Precision, Recall.](bdrgnlearn/metrics.py)
 
 # Principles
 
