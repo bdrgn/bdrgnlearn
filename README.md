@@ -20,5 +20,7 @@
 
 * Each algorithm implementation is an interactive lecture note. 
 
-* Here is a [demo](https://nbviewer.jupyter.org/github/bdrgn/bdrgnlearn/blob/master/DEMO.ipynb) showing algorithms at work. 
+* Here is a [demo](https://nbviewer.jupyter.org/github/bdrgn/bdrgnlearn/blob/master/DEMO.ipynb) showing algorithms at work.
+
+* It works like this basically.
 
