@@ -24,3 +24,4 @@
 
 * It works like this basically.
 
+![](demo.gif)
