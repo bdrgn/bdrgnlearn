@@ -12,7 +12,7 @@
 ### 2) [Decision Trees.](bdrgnlearn/tree.py)
 
 #### Decision Trees are fully implemented by me, too:
-![](demo.gif)
+![](decision_tree_demo.gif)
 
 ### 3) [Linear models: LinearRegression and LogisticRegression.](bdrgnlearn/linear_model.py)
 ### 4) [Sequential Neural Networks.](bdrgnlearn/neural.py) 
