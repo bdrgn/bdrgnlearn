@@ -11,10 +11,14 @@
 
 ### 2) [Decision Trees.](bdrgnlearn/tree.py)
 
-#### Decision Trees are fully implemented by me, too:
+#### Decision Trees are fully implemented from scratch:
 ![](decision_tree_demo.gif)
 
 ### 3) [Linear models: LinearRegression and LogisticRegression.](bdrgnlearn/linear_model.py)
+
+#### Here you can see bdrgnlearn's Linear Regression minimising loss on sample data:
+![](linreg_sgd_demo.gif)
+
 ### 4) [Sequential Neural Networks.](bdrgnlearn/neural.py) 
 ### 5) [KMeans clustering.](bdrgnlearn/cluster.py)
 
