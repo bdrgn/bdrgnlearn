@@ -14,7 +14,7 @@
 #### Decision Trees are fully implemented from scratch:
 ![](decision_tree_demo.gif)
 
-### [Linear models
+### [Linear models](bdrgnlearn/linear_model.py)
 
 #### Here you can see bdrgnlearn's Linear Regression minimising loss on sample data:
 ![](linreg_sgd_demo.gif)
