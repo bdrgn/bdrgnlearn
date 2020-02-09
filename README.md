@@ -7,7 +7,7 @@
 ### [Random Forests](bdrgnlearn/ensemble.py)
 
 #### My implementation of Random Forest gets 97% accuracy on breast cancer dataset:
-![](demo.gif)
+![](rf_demo.gif)
 
 ### [Decision Trees](bdrgnlearn/tree.py)
 
