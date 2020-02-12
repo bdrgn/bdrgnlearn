@@ -5,7 +5,7 @@
 # Performance
 | Algorithm | Dataset | sklearn performance | bdrgnlearn performance |
 | ------------- | ------------- | ------------- | ------------- | 
-| [Random Forest Classifier](bdrgnlearn/ensemble.py) | Breast Cancer dataset (sklearn) | 0.95 accuracy | 0.95 accuracy |
+| [Random Forest Classifier](bdrgnlearn/ensemble.py) | Breast Cancer dataset (sklearn) | 0.95 accuracy | __0.95 accuracy__ |
 | [Logistic Regression](bdrgnlearn/linear_model.py) | Breast Cancer dataset (sklearn) | 0.96 accuracy | 0.94 |
 | [KNeighborsClassifier](bdrgnlearn/neighbors.py) | Breast Cancer dataset (sklearn) | 0.93 accuracy | 0.93 accuracy |
 | [Linear Regression](bdrgnlearn/linear_model.py) | Boston House Prices dataset (sklearn) | 0.68 R2 | 0.66 R2 |
