@@ -4,7 +4,7 @@
 
 | [Decision Trees](bdrgnlearn/tree.py), [Random Forests](bdrgnlearn/ensemble.py) | [Linear models](bdrgnlearn/linear_model.py) | 
 | ------------- | ------------- | 
-| ![](demo_gifs/decision_tree_demo.gif) |  ![](demo_gifs/linreg_sgd_demo.gif) | 
+| ![](demo_gifs/decision_tree_demo_2.gif) |  ![](demo_gifs/linear_regression_demo_2.gif) |
 
 ### Accuracy on Breast Cancer dataset
 | Algorithm | sklearn | __bdrgnlearn__ |
