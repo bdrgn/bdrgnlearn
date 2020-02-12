@@ -2,6 +2,13 @@
 
 ### Classic machine learning algorithms implemented in plain Python / Numpy. 
 
+# Performance
+| Algorithm | Dataset | sklearn performance | bdrgnlearn performance |
+| ------------- | ------------- | ------------- | ------------- | 
+| [Random Forests](bdrgnlearn/ensemble.py) | Breast Cancer dataset (sklearn) | 0.95 | 0.96 |
+
+
+
 # Contents
 
 | Algorithm | Visualization | 
