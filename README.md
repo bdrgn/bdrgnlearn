@@ -10,6 +10,7 @@
 | [KNeighborsClassifier](bdrgnlearn/neighbors.py) | Breast Cancer dataset (sklearn) | 0.93 accuracy | 0.93 accuracy |
 | [Linear Regression](bdrgnlearn/linear_model.py) | Boston House Prices dataset (sklearn) | 0.68 R2 | 0.66 R2 |
 | [Random Forest Regressor](bdrgnlearn/ensemble.py) | Boston House Prices dataset (sklearn) | 0.78 R2 | 0.73 R2 |
+| [KNeighborsRegressor](bdrgnlearn/ensemble.py) | Boston House Prices dataset (sklearn) | 0.63 R2 | 0.63 R2 |
 
 
 
