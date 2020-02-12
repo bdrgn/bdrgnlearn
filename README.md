@@ -6,14 +6,12 @@
 | ------------- | ------------- | 
 | ![](demo_gifs/decision_tree_demo.gif) |  ![](demo_gifs/linreg_sgd_demo.gif) | 
 
-# Classification performance
-#### * accuracy measured on Breast Cancer dataset (sklearn)
-
-| Algorithm | sklearn performance | bdrgnlearn performance |
+# Accuracy measured on Breast Cancer dataset (sklearn)
+| Algorithm | sklearn performance | __bdrgnlearn performance__ |
 | ------------- | ------------- | ------------- |
-| [Random Forest Classifier](bdrgnlearn/ensemble.py) |0.95 |0.95 |
-| [Logistic Regression](bdrgnlearn/linear_model.py) |0.96 |0.94 |
-| [KNeighborsClassifier](bdrgnlearn/neighbors.py) |0.93 |0.93 |
+| [Random Forest Classifier](bdrgnlearn/ensemble.py) |0.95 | __0.95__ |
+| [Logistic Regression](bdrgnlearn/linear_model.py) |0.96 |__0.94__ |
+| [KNeighborsClassifier](bdrgnlearn/neighbors.py) |0.93 |__0.93__ |
 
 
 
