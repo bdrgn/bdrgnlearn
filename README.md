@@ -4,6 +4,7 @@
 
 # Contents
 
+| Algorithm | Visualization | 
 | ------------- | ------------- | 
 | [Random Forests](bdrgnlearn/ensemble.py) | ![](demo_gifs/rf_demo.gif) |
 | [Decision Trees](bdrgnlearn/tree.py) | ![](demo_gifs/decision_tree_demo.gif) | 
