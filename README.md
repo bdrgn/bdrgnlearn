@@ -2,10 +2,7 @@
 
 ### Classic machine learning algorithms implemented in plain Python / Numpy. 
 
-# Highlights
-
-### [Random Forests](bdrgnlearn/ensemble.py)
-
+# Contents
 
 | Algorithm  | Visualization
 | ------------- | ------------- | 
