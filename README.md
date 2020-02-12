@@ -2,7 +2,7 @@
 
 ### Classic machine learning algorithms implemented in plain Python / Numpy. 
 
-| [Decision Trees](bdrgnlearn/tree.py) | [Linear models](bdrgnlearn/linear_model.py) | 
+| [Decision Trees](bdrgnlearn/tree.py), [Random Forests](bdrgnlearn/ensemble.py) | [Linear models](bdrgnlearn/linear_model.py) | 
 | ------------- | ------------- | 
 | ![](demo_gifs/decision_tree_demo.gif) |  ![](demo_gifs/linreg_sgd_demo.gif) | 
 
