@@ -7,7 +7,7 @@
 | ![](demo_gifs/decision_tree_demo.gif) |  ![](demo_gifs/linreg_sgd_demo.gif) | 
 
 # Accuracy measured on Breast Cancer dataset (sklearn)
-| Algorithm | sklearn performance | __bdrgnlearn performance__ |
+| Algorithm | sklearn | __bdrgnlearn__ |
 | ------------- | ------------- | ------------- |
 | [Random Forest Classifier](bdrgnlearn/ensemble.py) |0.95 | __0.95__ |
 | [Logistic Regression](bdrgnlearn/linear_model.py) |0.96 |__0.94__ |
