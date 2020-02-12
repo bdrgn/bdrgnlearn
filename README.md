@@ -9,7 +9,7 @@
 
 | Algorithm  | Performance | Visualization
 | ------------- | ------------- |  ------------- | 
-| [Random Forests](bdrgnlearn/ensemble.py)  | Accuracy 97%  | ![](demo_gifs/rf_demo.gif) |
+| [Random Forests](bdrgnlearn/ensemble.py)  | 97% Accuracy on Breast Cancer dataset  | ![](demo_gifs/rf_demo.gif) |
 | Content Cell  | Content Cell  | ------------- | 
 
 #### My implementation of Random Forest gets 97% accuracy on breast cancer dataset:
