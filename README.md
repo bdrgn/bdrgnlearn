@@ -6,15 +6,17 @@
 | ------------- | ------------- | 
 | ![](demo_gifs/decision_tree_demo.gif) |  ![](demo_gifs/linreg_sgd_demo.gif) | 
 
-# Accuracy measured on Breast Cancer dataset (sklearn)
+### Accuracy measured on Breast Cancer dataset
 | Algorithm | sklearn | __bdrgnlearn__ |
 | ------------- | ------------- | ------------- |
 | [Random Forest Classifier](bdrgnlearn/ensemble.py) |0.95 | __0.95__ |
 | [Logistic Regression](bdrgnlearn/linear_model.py) |0.96 |__0.94__ |
 | [KNeighborsClassifier](bdrgnlearn/neighbors.py) |0.93 |__0.93__ |
 
+### R2 measured on Boston House Prices dataset
+| Algorithm | sklearn | __bdrgnlearn__ |
+| ------------- | ------------- | ------------- |
+| [Linear Regression](bdrgnlearn/linear_model.py) |0.68|__0.66__ |
+| [Random Forest Regressor](bdrgnlearn/ensemble.py) |0.78|__0.73__ |
+| [KNeighborsRegressor](bdrgnlearn/ensemble.py) |0.63 |__0.63__ |
 
-
-| [Linear Regression](bdrgnlearn/linear_model.py) |0.68 R2|0.66 R2|
-| [Random Forest Regressor](bdrgnlearn/ensemble.py) |0.78 R2|0.73 R2|
-| [KNeighborsRegressor](bdrgnlearn/ensemble.py) |0.63 R2|0.63 R2|
